@@ -72,7 +72,7 @@ nav ul {
     display: flex;
 }
 
-nav,li {
+nav li {
     display: inline;
     text-align: center;
     flex: 1;
